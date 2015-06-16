@@ -1,0 +1,5 @@
+# this is comment
+# there are files-examples on help.github.com/articles/ignoring-files and github.com/github/gitignore with standatd cases of ignoring in windows or linux, etc
+#*.php
+#!index.php
+
